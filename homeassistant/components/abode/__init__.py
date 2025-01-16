@@ -2,6 +2,8 @@
 
 """Test for new changes"""
 
+"""Test for new changes 2"""
+
 from __future__ import annotations
 
 from dataclasses import dataclass, field
